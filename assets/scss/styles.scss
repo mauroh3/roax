@@ -1,0 +1,91 @@
+@import './fonts/fonts';
+@import './abstracts/_colors';
+*{
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	border: none;
+	outline: none;
+}
+
+
+body{
+	min-height: 1200px;
+	font-family: $font-family;
+}
+nav{
+	font-size: 1.8rem;
+}
+.menu{
+	background-color: $primary;
+}
+
+.hb{
+	color: #fff;
+}
+.icon{
+	width: 1.3em;
+	margin-bottom: 0.5em;
+	margin-left: 0.6em;
+}
+
+.iicon{
+	width: 1.3em;
+	margin-bottom: 0.5em;
+	margin-right: 0.2em;
+}
+
+.ficon{
+	width: 2.5em;
+	margin-left: 0.6em;
+	margin-right: 0.7em;
+	margin-top: 0.5em;
+}
+
+.c-row{
+	min-height: 499.633px;
+	max-height: 550px;
+}
+
+.t-c {
+	font-size: x-small;
+}
+
+.WppWidget{
+	height: 5em;
+	position: fixed;
+	z-index: 99999999;
+	border-radius: 50%;
+	bottom: 2em;
+	right: 6em;
+}
+
+.logo-footer{
+    width: 10em;
+}
+.mz{
+	width: 50em;
+}
+
+.close {
+	font-size: 1.5rem;
+}
+
+.mimg {
+	opacity: 0.7;
+	cursor: pointer;
+	width: 100%;
+}
+
+.mimg:hover {
+	opacity: 1;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.img-light{
+	max-width: 1900px;
+	padding: 1%;
+}
+.contact-size{
+	font-size: 1.5em;
+}
