@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mauroh3/Axel.git"
+    "url": "git+https://github.com/mauroh3/roax.git"
   },
   "author": "Mauro H.",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mauroh3/Axel/issues"
+    "url": "https://github.com/mauroh3/roax.git"
   },
-  "homepage": "https://github.com/mauroh3/Axel#readme",
+  "homepage": "https://github.com/mauroh3/roax.git#readme",
   "devDependencies": {
     "node-sass": "^7.0.1",
     "nodemon": "^2.0.16"
